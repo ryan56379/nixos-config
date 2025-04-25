@@ -167,6 +167,7 @@
    pipx
    gcc-arm-embedded
    lact
+   btop
   ];
 
   #LACT service
