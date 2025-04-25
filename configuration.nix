@@ -168,6 +168,7 @@
    gcc-arm-embedded
    lact
    btop
+   orca-slicer
   ];
 
   #LACT service
